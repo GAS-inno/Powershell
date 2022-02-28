@@ -1,0 +1,2 @@
+﻿$user = read-host "enter user SamAccountName"
+get-aduser $user -Properties * | select name, samaccountname, EmailAddress, userprincipalname ,whenCreated,created, passwordExpired, PasswordLastSet, lastLogonDate, Enabled, AccountExpirationDate #| Out-GridView
