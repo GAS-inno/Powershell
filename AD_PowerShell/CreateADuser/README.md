@@ -74,6 +74,8 @@ Get-ADUser -Filter * | Select-Object Name, SamAccountName, EmailAddress, Departm
 - Modify the `Get-RandomPassword` function to adjust password complexity.
 - Users who already exist in AD will not be recreated.
 
+## can setup task scheduler > refer to the section https://github.com/GAS-inno/Powershell/blob/main/AD_PowerShell/Scheduler_Enable_Disable_ADuser_Account/README.md
+
 ## Disclaimer
 This script modifies Active Directory. Use with caution and test in a controlled environment before deploying in production.
 
