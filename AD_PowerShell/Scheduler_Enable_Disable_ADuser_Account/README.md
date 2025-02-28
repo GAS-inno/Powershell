@@ -3,7 +3,7 @@
 ## Project Overview
 This project aims to reduce the workload of our IT team by automating the enable/disable process for user accounts. Many offboarding requests are scheduled weeks or months in advance, increasing the risk of missing critical deadlines and posing a potential security vulnerability.
 
-To mitigate this risk, I have implemented an automated solution using PowerShell and Task Scheduler to ensure accounts are enabled or disabled on the specified dates for my IT teammembers.
+To mitigate this risk, I have implemented an automated solution using PowerShell and Task Scheduler to ensure accounts are enabled or disabled on the specified dates for my IT team members.
 
 > **Note:** This may not be the ultimate solution, but it will save time and enhance security in our IT environment.
 
