@@ -1,0 +1,6 @@
+ticketNumber,action,dateEnable,dateDisable,upn,group,group2,firstname,lastname,username,ext-mail,Extname,email,department,description,country,manager,Password,city,jobtitle,company,streetaddress,zipcode,state,telephone,ou
+t-1990,disable,,17/7/2024,user1@domain.com,,,,,,,,,,,,,,,,,,,,,
+t-14304,disable,,15/7/2024,user2@domain.com,,,,,,,,,,,,,,,,,,,,,
+t-14303,done-disabled,,12/7/2024,user5@domain.com,,,,,,,,,,,,,,,,,,,,,
+#22046,done-disabled,,5/7/2024,user1@domain.com,,,,,,,,,,,,,,,,,,,,,
+t-14302,done-disabled,,5/7/2024,user6@domain.com,,,,,,,,,,,,,,,,,,,,,
