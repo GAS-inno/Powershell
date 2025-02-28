@@ -1,4 +1,7 @@
-﻿# import the Active Directory module in order to be able to use get-ADuser and Add-AdGroupMembe cmdlet
+#step1: get SAMAccountName of sourceUser (copy) and destination user (paste) and the on the relevant prompt next
+
+
+ # import the Active Directory module in order to be able to use get-ADuser and Add-AdGroupMembe cmdlet
 import-Module ActiveDirectory
 
 
@@ -29,7 +32,7 @@ if ($yn -eq 'y'){
 
         }
 
-    else { read-host "press enter to exi"}
+    else { read-host "press enter to exit"}
 
 
     }
