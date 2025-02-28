@@ -1,4 +1,4 @@
-﻿$ADUsers = Import-csv "C:\Users\gasaw\OneDrive - INGENICO Group\powershell\script_csv_template\bulk_users1.csv"
+﻿$ADUsers = Import-csv "C:\Users\xxx\powershell\script_csv_template\bulk_users1.csv"
 
 
 #add extentionaAttribute - SG
