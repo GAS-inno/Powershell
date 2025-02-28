@@ -72,7 +72,7 @@ This script automates the enabling and disabling user accounts based on predefin
 4. **Execution & Logs**
    - Once executed, the `status` column in the CSV file will update to `done`.
    - A log file will also be generated for record-keeping.
-   ![Execution Log](https://github.com/user-attachments/assets/e267ce87-b813-4c75-9188-988860d68cf7)
+   ![image](https://github.com/user-attachments/assets/f3c9e4ad-7802-4447-985e-4e29bc306746)
    ![Log Example](https://github.com/user-attachments/assets/0b7cf48f-dd96-45fc-8407-90cd5459ff03)
 
 ---
