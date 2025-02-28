@@ -24,6 +24,7 @@ The CSV file should contain the following columns:
 ```
 username,firstname,lastname,initials,Extname,ou,email,upn,streetaddress,city,country,manager,zipcode,state,telephone,jobtitle,company,description,department,action
 ```
+![image](https://github.com/user-attachments/assets/db3373c6-b253-4aba-ae36-b5f745164bb5)
 
 - `username`: The SAMAccountName for the user.
 - `firstname` & `lastname`: User's first and last names.
@@ -36,6 +37,7 @@ username,firstname,lastname,initials,Extname,ou,email,upn,streetaddress,city,cou
 ### Step 1: Prepare CSV File
 Place the correctly formatted CSV file in `C:\temp\powershellscript\csv\`.
 
+### Step 3: input the keyword "create" in the action column in CSV file : 
 ### Step 2: Run the Script
 Open PowerShell as an administrator and execute the script:
 
