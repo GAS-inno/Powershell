@@ -1,0 +1,1 @@
+You can achieve the organization of PowerShell scripts into specific folders based on the commands they contain using a PowerShell script. Below is a PowerShell script that categorizes scripts into the specified folders: "AD_user_group", "AAD_user_group", and "Exchange_Online_Mailbox".
